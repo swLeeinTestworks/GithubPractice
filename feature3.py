@@ -1,2 +1,2 @@
 
-print("He can use the tool.")
+print("He can't use the tool.")

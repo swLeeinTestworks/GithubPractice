@@ -1,2 +1,2 @@
 
-print("he is a mammal")
+print("he is a Reptilia")
