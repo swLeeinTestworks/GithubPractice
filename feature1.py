@@ -1,2 +1,2 @@
 
-print("feature1 : he has two arms.")
+print("feature1 : he has no arm.But he has four legs.")
