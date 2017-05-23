@@ -1,0 +1,1 @@
+print("I'm a package's module1")
